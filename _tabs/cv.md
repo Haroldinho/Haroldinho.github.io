@@ -16,7 +16,7 @@ h.a.nikoue at gmail.com
 
 # Profile
 
-Aerospace Engineer and Data Scientist with years of experience applying statistical machine learning and AI to solve complex problems in transportation, demand forecasting, slot scheduling video and captioning processing. Constanlty  learning, adept at working in teams and thrive in fast-paced environments with challenging objectives. 
+Aerospace Engineer and Data Scientist with years of experience applying statistical machine learning and AI to solve complex problems in transportation, demand forecasting, slot scheduling video and captioning processing. Constanlty  learning, adept at working in teams and thrive in fast-paced environments where the goals are still being defined. 
 
 # Curriculum Vitae
 
@@ -80,7 +80,7 @@ Aerospace Engineer and Data Scientist with years of experience applying statisti
 | Category | Skills |
 | :--- | :--- |
 | **AI/ML** | Deep Learning (Pytorch), NLP (SpaCy), Computer Vision, Anomaly Detection, Predictive Modeling |
-| **Data Science** | Pandas, NumPy, Scikit-learn, Kubeflow |
+| **Data Science** | Pandas, NumPy, Scikit-learn, Kubeflow, Visualization (Streamlit, Plotly) |
 | **Programming**| Python, SQL, C++, MATLAB, Bash |
 | **Cloud** | AWS, Azure, Google Cloud Platform |
 | **Soft Skills** | Team Leadership, Project Management, Communication, Problem Solving |
