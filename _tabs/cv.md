@@ -5,19 +5,6 @@ order: 1
 ---
 
 
-### Contact
-
-Atlanta, GA
-
-h.a.nikoue at gmail.com
-
-[LinkedIn](https://www.linkedin.com/login): [https://www.linkedin.com/in/harold-nikoue/](https://www.linkedin.com/in/harold-nikoue/)
----
-
-# Profile
-
-Aerospace Engineer and Data Scientist with years of experience applying statistical machine learning and AI to solve complex problems in transportation, demand forecasting, slot scheduling video and captioning processing. Constanlty  learning, adept at working in teams and thrive in fast-paced environments where the goals are still being defined. 
-
 # Curriculum Vitae
 
 ## Personal Information
@@ -26,6 +13,12 @@ Aerospace Engineer and Data Scientist with years of experience applying statisti
 **Location:** [Your Location]  
 **LinkedIn:** [linkedin.com/in/harold-nikoue](https://www.linkedin.com/in/harold-nikoue)  
 **GitHub:** [github.com/Haroldinho](https://github.com/Haroldinho)
+---
+
+# Profile
+
+Aerospace Engineer and Data Scientist with years of experience applying statistical machine learning and AI to solve complex problems in transportation, demand forecasting, slot scheduling video and captioning processing. Constanlty  learning, adept at working in teams and thrive in fast-paced environments where the goals are still being defined. 
+
 
 ## Professional Experience
 
