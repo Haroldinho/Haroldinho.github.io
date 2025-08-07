@@ -1,6 +1,16 @@
-# Swing Trading & Value Investing Learning Plan
+---
+title: Swing Trading and Value Investing Learning Plan
+date: 2025-08-06 12:10:11 -0500
+categories: [Finance, Money, Investment, Learning]
+tags: [value_investing, swing_trading, trading]
+---
 
+
+<!-- //# Swing Trading & Value Investing Simple Learning Plan -->
 ## Phase 1: Foundation (Weeks 1-4)
+
+
+*This article was a quick ChatGPT prompt to teach myself how to invest*
 
 ### Core Investment Principles
 - **Week 1**: Market basics and terminology
