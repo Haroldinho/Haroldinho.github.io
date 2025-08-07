@@ -10,7 +10,7 @@ order: 1
 ## Personal Information
 **Name:** Harold Nikoue  
 **Email:** h.a.nikoue@gmail.com  
-**Location:** [Your Location]  
+**Location:** Atlanta, GA 
 **LinkedIn:** [linkedin.com/in/harold-nikoue](https://www.linkedin.com/in/harold-nikoue)  
 **GitHub:** [github.com/Haroldinho](https://github.com/Haroldinho)
 ---
@@ -21,14 +21,22 @@ Aerospace Engineer and Data Scientist with years of experience applying statisti
 
 
 ## Professional Experience
+**Warner Bros. Discovery** | Atlanta, GA, USA
+*Senior Data Scientist*
+*May 2020 - Present*
 
-**Aireon** | McLean, VA, USA
-*Lead Data Scientist*
-*Dec 2021 - Present*
-
-* Led the data science team in the development and deployment of machine learning models for anomaly detection and prediction in the aviation industry.
-* Managed the end-to-end lifecycle of data products, from ideation to production.
-* Collaborated with cross-functional teams to define project requirements and deliver data-driven solutions.
+* **Spearheaded the development of an ML tool to automatically update caption positions based on essential actions.**
+* **Established launch metrics for CaptionAI, working closely with product managers and stakeholders.**
+* **Implemented a reporting system using BigQuery and custom dashboards, tracking over $100k in cost savings within the first 3 months.**
+* Led development of an ML-based block positioning tool, improving F1 score from 48% to 70%.
+* Deployed VertexAI inference and prediction pipelines for the block positioning solution.
+* Collaborated with the ML team to bring the solution to production and established steps for continuous experimentation and improvements in the GCP ecosystem.
+* Mentored a summer intern, ideating and scoping their project, which resulted in investment into internal research for speaker diarization.
+* Maintained production ad-scheduling mixed integer linear programming codes in CPLEX, supporting millions of dollars in revenue.
+* Reduced forecasting error by 30% by updating a suite of audience forecasting tools to use XGBoost and more appropriate seasonalities.
+* Evaluated third-party data integrity, facilitating vendor selection within 3 months.
+* Developed Gaussian Mixture Models for short-term targeted forecasting.
+* Facilitated the Data Science Summit across AT&T and WarnerMedia.
 
 **Airbus** | Hamburg, Germany
 *Data Scientist*
@@ -38,13 +46,6 @@ Aerospace Engineer and Data Scientist with years of experience applying statisti
 * Performed data analysis and visualization to identify trends and insights from large datasets.
 * Contributed to the development of a data analytics platform for the A320 family program.
 
-**Pace** | Cambridge, UK
-*Aerospace Engineer*
-*Sep 2015 - Aug 2018*
-
-* Designed and analyzed aerodynamic models for next-generation aircraft.
-* Conducted computational fluid dynamics (CFD) simulations to optimize aircraft performance.
-* Supported wind tunnel testing and flight test campaigns.
 
 ---
 
@@ -54,16 +55,16 @@ Aerospace Engineer and Data Scientist with years of experience applying statisti
 *Georgia Institute of Technology* | Atlanta, GA
 *2021*
 
-**MSc in Operations Research**
+**MS in Operations Research**
 *Georgia Institute of Technology* | Atlanta, GA
 *2018 - 2020*
 
-**MSc in Aerospace Engineering**
+**MS in Aerospace Engineering**
 *Georgia Institute of Technology* | Atlanta, GA
 *2012 - 2013*
 
-**BSc in Aerospace Engineering**
-*Politecnico di Milano* | Milan, Italy
+**BS in Aerospace Engineering**
+*Georgia Institute of Technology* | Atlanta, GA
 *2008 - 2011*
 
 ---
@@ -87,9 +88,6 @@ Aerospace Engineer and Data Scientist with years of experience applying statisti
 
 ## Research Projects
 
-**PhD Research** | University of Cambridge
-* Developed a novel method for the analysis of unsteady aerodynamic flows using machine learning techniques.
-* Published 3 papers in peer-reviewed journals.
 
 
 *Last updated: [Current Date]* 
