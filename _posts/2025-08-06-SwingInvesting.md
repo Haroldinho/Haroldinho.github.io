@@ -15,6 +15,7 @@ tags: [value_investing, swing_trading, trading]
 
 ### Core Investment Principles
 - **Week 1**: Market basics and terminology
+  - Asset classes, investment vehicles, derivatives and strategies
   - Stock market fundamentals
   - Key financial terms (P/E ratio, market cap, dividend yield, etc.)
   - Different investment styles overview
