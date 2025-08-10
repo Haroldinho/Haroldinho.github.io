@@ -15,17 +15,17 @@ tags: [value_investing, swing_trading, trading]
 
 ### Core Investment Principles
 - **Week 1**: Market basics and terminology
-  [x] Asset classes, investment vehicles, derivatives and strategies
-  [] Stock market fundamentals
-  [] Key financial terms (P/E ratio, market cap, dividend yield, etc.)
-  [] Different investment styles overview
-  [] Risk vs. return concepts
+  - Asset classes, investment vehicles, derivatives and strategies
+  - Stock market fundamentals
+  - Key financial terms (P/E ratio, market cap, dividend yield, etc.)
+  - Different investment styles overview
+  - Risk vs. return concepts
   
 - **Week 2**: Financial statement analysis
-  [] Income statement basics
-  [] Balance sheet fundamentals
-  [] Cash flow statement importance
-  [] Key financial ratios and metrics
+  - Income statement basics
+  - Balance sheet fundamentals
+  - Cash flow statement importance
+  - Key financial ratios and metrics
 
 ### Recommended Resources
 - **Books**: "The Intelligent Investor" by Benjamin Graham (Chapters 1-3)
@@ -36,39 +36,39 @@ tags: [value_investing, swing_trading, trading]
 
 ### Core Value Investing Concepts
 - **Week 5**: Warren Buffett's philosophy
-  [] Business moats and competitive advantages
-  [] Quality companies vs. cheap stocks
-  [] Long-term thinking approach
+  - Business moats and competitive advantages
+  - Quality companies vs. cheap stocks
+  - Long-term thinking approach
 
 - **Week 6**: Fundamental analysis techniques
-  [] Intrinsic value calculation methods
-  [] Discounted cash flow (DCF) modeling
-  [] Price-to-book and price-to-earnings analysis
+  - Intrinsic value calculation methods
+  - Discounted cash flow (DCF) modeling
+  - Price-to-book and price-to-earnings analysis
 
 - **Week 7**: Company research methodology
-  [] Annual reports (10-K) and quarterly reports (10-Q)
-  [] Industry analysis and comparison
-  [] Management quality assessment
+  - Annual reports (10-K) and quarterly reports (10-Q)
+  - Industry analysis and comparison
+  - Management quality assessment
 
 - **Week 8**: Value screening and selection
-  [] Stock screeners and filters
-  [] Red flags to avoid
-  [] Portfolio construction for value investing
+  - Stock screeners and filters
+  - Red flags to avoid
+  - Portfolio construction for value investing
 
 - **Week 9**: Case studies and practice
-  [] Analyze 3-5 potential value investments
-  [] Build simple valuation models
-  [] Document investment thesis for each
+  - Analyze 3-5 potential value investments
+  - Build simple valuation models
+  - Document investment thesis for each
 
 - **Week 10**: Value investing review and testing
-  [] Review all concepts learned
-  [] Take practice quizzes
-  [] Refine investment criteria
+  - Review all concepts learned
+  - Take practice quizzes
+  - Refine investment criteria
 
 ### Recommended Resources
 - **Books**: 
-  [] "Security Analysis" by Graham & Dodd
-  [] "The Little Book of Value Investing" by Christopher Browne
+  - "Security Analysis" by Graham & Dodd
+  - "The Little Book of Value Investing" by Christopher Browne
 - **Tools**: Morningstar, Yahoo Finance, SEC EDGAR database
 - **Practice**: Research and analyze 10 companies using value metrics
 
@@ -76,39 +76,39 @@ tags: [value_investing, swing_trading, trading]
 
 ### Technical Analysis Foundation
 - **Week 11**: Chart patterns and trends
-  [] Support and resistance levels
-  [] Trendlines and channels
-  [] Common chart patterns (head & shoulders, triangles, flags)
+  - Support and resistance levels
+  - Trendlines and channels
+  - Common chart patterns (head & shoulders, triangles, flags)
 
 - **Week 12**: Technical indicators
-  [] Moving averages (SMA, EMA)
-  [] RSI, MACD, Stochastic oscillators
-  [] Volume analysis and interpretation
+  - Moving averages (SMA, EMA)
+  - RSI, MACD, Stochastic oscillators
+  - Volume analysis and interpretation
 
 - **Week 13**: Swing trading strategies
-  [] Breakout trading
-  [] Pullback and retracement strategies
-  [] Momentum and mean reversion approaches
+  - Breakout trading
+  - Pullback and retracement strategies
+  - Momentum and mean reversion approaches
 
 - **Week 14**: Risk management for swing trading
-  [] Position sizing calculations
-  [] Stop-loss and take-profit strategies
-  [] Risk-reward ratios (minimum 1:2 or 1:3)
+  - Position sizing calculations
+  - Stop-loss and take-profit strategies
+  - Risk-reward ratios (minimum 1:2 or 1:3)
 
 - **Week 15**: Market timing and entry/exit
-  [] Market cycle awareness
-  [] Sector rotation concepts
-  [] Economic indicators impact on swing trades
+  - Market cycle awareness
+  - Sector rotation concepts
+  - Economic indicators impact on swing trades
 
 - **Week 16**: Swing trading psychology
-  [] Emotional discipline
-  [] Trading journal importance
-  [] Common psychological pitfalls
+  - Emotional discipline
+  - Trading journal importance
+  - Common psychological pitfalls
 
 ### Recommended Resources
 - **Books**: 
-  [] "Technical Analysis of the Financial Markets" by John Murphy
-  [] "Swing Trading for Dummies" by Omar Bassal
+  - "Technical Analysis of the Financial Markets" by John Murphy
+  - "Swing Trading for Dummies" by Omar Bassal
 - **Software**: TradingView, TC2000, or similar charting platforms
 - **Practice**: Execute 20+ paper swing trades over 4 weeks
 
@@ -116,47 +116,47 @@ tags: [value_investing, swing_trading, trading]
 
 ### Combining Both Approaches
 - **Week 17**: Hybrid strategies
-  [] Using technical analysis to time value investments
-  [] Finding undervalued stocks with strong technical setups
-  [] Portfolio allocation between swing and value positions
+  - Using technical analysis to time value investments
+  - Finding undervalued stocks with strong technical setups
+  - Portfolio allocation between swing and value positions
 
 - **Week 18**: Market environment adaptation
-  [] Bull market vs. bear market strategies
-  [] Economic cycle considerations
-  [] Sector-specific approaches
+  - Bull market vs. bear market strategies
+  - Economic cycle considerations
+  - Sector-specific approaches
 
 - **Week 19**: Advanced risk management
-  [] Portfolio diversification principles
-  [] Correlation analysis
-  [] Options strategies for hedging (basic covered calls/puts)
+  - Portfolio diversification principles
+  - Correlation analysis
+  - Options strategies for hedging (basic covered calls/puts)
 
 - **Week 20**: Performance tracking and improvement
-  [] Setting up tracking systems
-  [] Regular portfolio review processes
-  [] Continuous learning plan
+  - Setting up tracking systems
+  - Regular portfolio review processes
+  - Continuous learning plan
 
 ## Phase 5: Real-World Application (Weeks 21-24)
 
 ### Live Trading Preparation
 - **Week 21**: Final strategy refinement
-  [] Document complete trading/investing rules
-  [] Set up real brokerage account
-  [] Plan initial capital allocation
+  - Document complete trading/investing rules
+  - Set up real brokerage account
+  - Plan initial capital allocation
 
 - **Week 22**: Start small-scale live trading
-  [] Begin with small position sizes
-  [] Focus on process over profits
-  [] Maintain detailed trading journal
+  - Begin with small position sizes
+  - Focus on process over profits
+  - Maintain detailed trading journal
 
 - **Week 23**: Performance analysis
-  [] Review first month of live results
-  [] Identify areas for improvement
-  [] Adjust strategies based on real experience
+  - Review first month of live results
+  - Identify areas for improvement
+  - Adjust strategies based on real experience
 
 - **Week 24**: Long-term plan development
-  [] Set 1-year and 5-year goals
-  [] Create ongoing education schedule
-  [] Establish regular review periods
+  - Set 1-year and 5-year goals
+  - Create ongoing education schedule
+  - Establish regular review periods
 
 ## Daily/Weekly Activities Throughout
 
