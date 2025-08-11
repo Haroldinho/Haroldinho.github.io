@@ -14,10 +14,12 @@ order: 1
 **LinkedIn:** [linkedin.com/in/harold-nikoue](https://www.linkedin.com/in/harold-nikoue)  
 **GitHub:** [github.com/Haroldinho](https://github.com/Haroldinho)
 ---
+# Headline
+Bridging Aerospace Engineering & Data Science | ML, Analytics, Python | Turning Data Into Impact
+
 
 # Profile
-
-Aerospace Engineer and Data Scientist with years of experience applying statistical machine learning and AI to solve complex problems in transportation, demand forecasting, slot scheduling video and captioning processing. Constanlty  learning, adept at working in teams and thrive in fast-paced environments where the goals are still being defined. 
+Aerospace Engineer and Data Scientist with a proven track record of applying statistical modeling, machine learning, and AI to deliver impactful solutions in transportation, demand forecasting, slot scheduling, and video/caption processing. Known for quickly adapting to evolving goals, thriving in fast-paced environments, and collaborating across disciplines to turn complex challenges into actionable results. Committed to continuous learning and innovation.
 
 
 ## Professional Experience
