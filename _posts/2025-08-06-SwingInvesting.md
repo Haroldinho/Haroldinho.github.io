@@ -18,6 +18,10 @@ tags: [value_investing, swing_trading, trading]
   - Asset classes, investment vehicles, derivatives and strategies
   - Stock market fundamentals
   - Key financial terms (P/E ratio, market cap, dividend yield, etc.)
+    - P/E: Price to Equity Ratio, Price of a share to Earning Per Share: It indicates whether a stock is over- or under-valued
+    - Earning Per share: A company net profit (net income - preferred dividends) / number of common outstanding shares: it's the cmpany's profit per share.
+    - Martket cap
+    - Dividend Yield 
   - Different investment styles overview
   - Risk vs. return concepts
   
