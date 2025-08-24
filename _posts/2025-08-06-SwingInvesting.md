@@ -20,7 +20,7 @@ tags: [value_investing, swing_trading, trading]
   - Key financial terms (P/E ratio, market cap, dividend yield, etc.)
     - P/E: Price to Equity Ratio, Price of a share to Earning Per Share: It indicates whether a stock is over- or under-valued
     - Earning Per share: A company net profit (net income - preferred dividends) / number of common outstanding shares: it's the cmpany's profit per share.
-    - Martket cap
+    - Martket Cap or Market Capitalization: It is the current price of the stock multiplied by the number of shares outstanding. It represents how much the market believes the company is worth and is fundamental in prodviding context for any financial analysis.
     - Dividend Yield 
   - Different investment styles overview
   - Risk vs. return concepts
