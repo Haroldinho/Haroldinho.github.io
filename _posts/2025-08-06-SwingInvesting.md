@@ -15,15 +15,15 @@ tags: [value_investing, swing_trading, trading]
 
 ### Core Investment Principles
 - **Week 1**: Market basics and terminology
-  - Asset classes, investment vehicles, derivatives and strategies
+  - [x] Asset classes, investment vehicles, derivatives and strategies
   - Stock market fundamentals
-  - Key financial terms (P/E ratio, market cap, dividend yield, etc.)
-    - P/E: Price to Equity Ratio, Price of a share to Earning Per Share: It indicates whether a stock is over- or under-valued
-    - Earning Per share: A company net profit (net income - preferred dividends) / number of common outstanding shares: it's the cmpany's profit per share.
-    - Martket Cap or Market Capitalization: It is the current price of the stock multiplied by the number of shares outstanding. It represents how much the market believes the company is worth and is fundamental in prodviding context for any financial analysis.
-    - Dividend Yield 
-  - Different investment styles overview
-  - Risk vs. return concepts
+  - [ ] Key financial terms (P/E ratio, market cap, dividend yield, etc.)
+    - [x] P/E: Price to Equity Ratio, Price of a share to Earning Per Share: It indicates whether a stock is over- or under-valued
+    - [x] Earning Per share: A company net profit (net income - preferred dividends) / number of common outstanding shares: it's the cmpany's profit per share.
+    - [x] Martket Cap or Market Capitalization: It is the current price of the stock multiplied by the number of shares outstanding. It represents how much the market believes the company is worth and is fundamental in prodviding context for any financial analysis.
+    - [x] Dividend Yield is the ratio of the dividends paid to the stakeholder for the year divided (last 4 quarters) divided by the price of the stock. It indicates how much continuous return is being sent back to the stakeholders. It's a misleading indicator of company health and should never be used by itself. The dividend yield will go down when the stock is going down or if the firm is trying to seduce new investors irrespective of the health of the company. The value of the dividends also depends on the industry (REITs, master limited partnerships, and business development companies pay higher-than-average dividends) and the tax advantages: whether the dividends are qualifieds or ordinary.
+  - [ ] Different investment styles overview
+  - [ ] Risk vs. return concepts
   
 - **Week 2**: Financial statement analysis
   - Income statement basics
