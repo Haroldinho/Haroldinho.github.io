@@ -16,13 +16,34 @@ tags: [value_investing, swing_trading, trading]
 ### Core Investment Principles
 - **Week 1**: Market basics and terminology
   - [x] Asset classes, investment vehicles, derivatives and strategies
-  - Stock market fundamentals
+    - [x] Asset Classes: What you own
+      - [x] Equities (stocks, REITs)
+      - [x] Fixed Income (bonds, CDs, money market instruments)
+      - [x] Cash and Cash Equivalents (savings accounts, money market accounts, Treasury bills)
+      - [x] Commodities (gold, oil, agricultural products, etc.)
+      - [x] Real Estate (though REITs bridge equities and real estate)
+      - [x] Alternative Investments (hedge funds, private equity, etc.)
+    - [x] Investment Vehicles: How it's packaged
+        ├── Individual securities
+        ├── Mutual Funds
+        ├── ETFs
+        ├── Hedge Funds
+        ├── Private Equity
+        └── REITs
+    - [x] Derivatives and Strategies: Tool that modify your exposure
+        ├── Options
+        ├── Futures
+        ├── Short selling
+        ├── Swaps
+        └── Other derivatives>
   - [x] Key financial terms (P/E ratio, market cap, dividend yield, etc.)
     - [x] P/E: Price to Equity Ratio, Price of a share to Earning Per Share: It indicates whether a stock is over- or under-valued
     - [x] Earning Per share: A company net profit (net income - preferred dividends) / number of common outstanding shares: it's the cmpany's profit per share.
     - [x] Martket Cap or Market Capitalization: It is the current price of the stock multiplied by the number of shares outstanding. It represents how much the market believes the company is worth and is fundamental in prodviding context for any financial analysis.
     - [x] Dividend Yield is the ratio of the dividends paid to the stakeholder for the year divided (last 4 quarters) divided by the price of the stock. It indicates how much continuous return is being sent back to the stakeholders. It's a misleading indicator of company health and should never be used by itself. The dividend yield will go down when the stock is going down or if the firm is trying to seduce new investors irrespective of the health of the company. The value of the dividends also depends on the industry (REITs, master limited partnerships, and business development companies pay higher-than-average dividends) and the tax advantages: whether the dividends are qualifieds or ordinary.
-  - [ ] Different investment styles overview
+  - [x] Different investment styles overview
+    - This will depend on the type of risks you are comfortable with and the types of asset classes you would like to hold.
+    - The investment style is decided by your risk profile, the market ap fo the companies you want to invest in, whether you want to invest in growth or value stock (what's your time horizon), whether you value fixed income (money market, loans, bonds) or more variable incomes. 
   - [ ] Risk vs. return concepts
   
 - **Week 2**: Financial statement analysis
