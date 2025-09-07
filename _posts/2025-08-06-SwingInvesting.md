@@ -49,6 +49,8 @@ tags: [value_investing, swing_trading, trading]
     - The investment style is decided by your risk profile, the market ap fo the companies you want to invest in, whether you want to invest in growth or value stock (what's your time horizon), whether you value fixed income (money market, loans, bonds) or more variable incomes. 
   - [x] Risk vs. return concepts
     - [] Risk Capacity vs. Risk Tolerance
+    - [] Risk-adjusted returns
+  - [] Market-order execution basics
   
 - **Week 2**: Financial statement analysis
   - Income statement basics
