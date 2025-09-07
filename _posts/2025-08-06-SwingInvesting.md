@@ -43,7 +43,12 @@ tags: [value_investing, swing_trading, trading]
     - [x] Dividend Yield is the ratio of the dividends paid to the stakeholder for the year divided (last 4 quarters) divided by the price of the stock. It indicates how much continuous return is being sent back to the stakeholders. It's a misleading indicator of company health and should never be used by itself. The dividend yield will go down when the stock is going down or if the firm is trying to seduce new investors irrespective of the health of the company. The value of the dividends also depends on the industry (REITs, master limited partnerships, and business development companies pay higher-than-average dividends) and the tax advantages: whether the dividends are qualifieds or ordinary.
     - [x] Float: Share available for public trading. outstanding shares minus restricted shares
     - [x] Restricted shares are company stock granted to employees that come with restrictions on when they can be sold or transferred.
-    - [] Sharpe Ratio:  
+    - [] Sharpe Ratio: Measure of risk-adjusted return. How much return does the stock provide over a risk-free return (typically a fixed-income asset) adjusted by the volatility of the investment.
+    $$
+      \frac{R_p - R_f}{\sigma_p}
+    $$
+    $R_p$: expected return of the portfolio/asset, $R_f$: Risk-free return, $\sigma_p$ standard deviation of the asset or portfolio.
+     
   - [x] Different investment styles overview
     - This will depend on the type of risks you are comfortable with and the types of asset classes you would like to hold.
     - The investment style is decided by your risk profile, the market ap fo the companies you want to invest in, whether you want to invest in growth or value stock (what's your time horizon), whether you value fixed income (money market, loans, bonds) or more variable incomes. 
@@ -57,6 +62,21 @@ tags: [value_investing, swing_trading, trading]
   - Balance sheet fundamentals
   - Cash flow statement importance
   - Key financial ratios and metrics
+
+- **Week 3**: Advanced Financial Metrics
+  - Debt-to-equity ratios
+  - Return on equity (ROE)
+  - Price-to-book (P/B) ratios
+  - Profit margins and efficiency ratios
+  - Cash flow metrics
+  - How to use these ratios together for company analysis
+
+- **Week 4**: Investment Styles Deep Dive
+  - Growth vs. Value investing characteristics
+  - Income investing strategies
+  - Index investing philosophy
+  - Risk tolerance and style matching
+  - Building a personal investment philosophy
 
 ### Recommended Resources
 - **Books**: "The Intelligent Investor" by Benjamin Graham (Chapters 1-3)
