@@ -40,13 +40,6 @@ Aerospace Engineer and Data Scientist with a proven track record of applying sta
 * Developed Gaussian Mixture Models for short-term targeted forecasting.
 * Facilitated the Data Science Summit across AT&T and WarnerMedia.
 
-**Airbus** | Hamburg, Germany
-*Data Scientist*
-*Sep 2018 - Nov 2021*
-
-* Developed and implemented machine learning algorithms for predictive maintenance and operational efficiency in aircraft manufacturing.
-* Performed data analysis and visualization to identify trends and insights from large datasets.
-* Contributed to the development of a data analytics platform for the A320 family program.
 
 
 ---
