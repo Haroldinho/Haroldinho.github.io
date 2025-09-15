@@ -58,6 +58,18 @@ tags: [value_investing, swing_trading, trading]
   
 - **Week 2**: Financial statement analysis
   - Income statement basics
+    - Revenue
+    - Expenses  
+    - Cost of Good Solds (COGS)
+    - Gross Profit
+    - Operating Income
+    - Income before Taxes
+    - Net Income
+    - Earnings per share (EPS)
+    - EBITDA: Earnings Before Interest Depreciation and Amortization
+    - Horizontal vs. Vertical Analysis
+      - Vertical analysis expresses each item in a financial statement as a percentage of a base figure within that same statement. The goal is to understand the relative importancde of each item to a company's performance.
+      - Horizontal analysis compares financial statement items across two or more periods to identify changes over time. It helps spot trends in revenue, cost and profitability.  
   - Balance sheet fundamentals
   - Cash flow statement importance
   - Key financial ratios and metrics
