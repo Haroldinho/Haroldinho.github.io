@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Swing Trading and Value Investing Learning Plan
 date: 2025-08-06 12:10:11 -0500
 description: This article was a quick ChatGPT prompt to teach myself how to invest

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Swing Trading and Value Investing Adjusted Learning Plan
 date: 2025-09-07
 description: This article tracks my progression into teaching myself how to invest. It is more direct and less formal than the previous plan.
