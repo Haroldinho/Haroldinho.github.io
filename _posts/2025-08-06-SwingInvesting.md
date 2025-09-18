@@ -69,6 +69,12 @@ tags: [value_investing, swing_trading, trading]
       - Vertical analysis expresses each item in a financial statement as a percentage of a base figure within that same statement. The goal is to understand the relative importancde of each item to a company's performance.
       - Horizontal analysis compares financial statement items across two or more periods to identify changes over time. It helps spot trends in revenue, cost and profitability.  
   - Balance sheet fundamentals
+    - The Balance sheet informs on the net worth of a company.
+    - Fundamental Accounting Equation: "Assets:= Liabilities + Equity"
+    - Assets: Everything the company owns including the building(s) itself
+    - Current assets (cash, account receivable, short-term securities, inventory) and non-current assets (property and equipment, long-term marketable securities, intengible assets). Current assets are liquid and have a clear retail value.
+    - Liabilities "What's owed." The liabilities consist of all the debts of a company and are separated between current (accounts payable, salaries and wage payable, deferred revenues, short-term debt...) and non-current (deferred revenue, long-term debt, long-term lease obligations). Those values are fixed and are paid first in teh event of a bankruptcy.
+    - Equity "The owners' shares". It is whatever assets are left after the liabilities are paid. Those assets return to the owners. Unlike liabilities, the equity is highly variable depending on the changes in the value of the assets (depreciation, ). Common line items  are common stock, preferred stock, treasury stock and retained earnings. 
   - Cash flow statement importance
   - Key financial ratios and metrics
 
