@@ -70,7 +70,10 @@ Because the Fourier Transform is linear it can be represented by matrix operatio
 The Discrete Fourier Transform is that representation over a finite set that allows you to transform a function from the time domain to the frequency domain and vice versa.
 
 $$
-\hat{f}_k = \sum_{j=0}^{n-1} f_j e^{-\frac{i 2 \pi x}{n}}\\
+\hat{f}_k = \sum_{j=0}^{n-1} f_j e^{-\frac{i 2 \pi x}{n}}
+$$
+
+$$
 f_k = \frac{1}{n} \sum_{j=0}^{n-1} f_j e^{i \frac{2 \pi j k}{n}}
 $$
 
