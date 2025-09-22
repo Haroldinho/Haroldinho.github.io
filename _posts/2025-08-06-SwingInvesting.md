@@ -88,33 +88,6 @@ tags: [value_investing, swing_trading, trading]
   - Key financial ratios and metrics
 
   ![Image]({{"/assets/images/ba3041fb-cf0d-4dd8-af52-69bc3c9ecbf1.png" | relative_url}})
-                 <!-- BALANCE SHEET
--------------------------------------------------
-ASSETS                               LIABILITIES + EQUITY
--------------------------------------------------
-Current Assets:                      Current Liabilities:
-  + Cash                               + Accounts Payable
-  + Accounts Receivable                + Salaries & Wages Payable
-  + Inventory                          + Short-term Debt
-  + Short-term Securities              + Deferred Revenues
-                                     
-Non-current Assets:                   Non-current Liabilities:
-  + Property, Plant & Equipment         + Long-term Debt
-  + Intangible Assets                   + Lease Obligations
-  + Long-term Investments               + Pension / Tax Liabilities
--------------------------------------------------
-TOTAL ASSETS                         TOTAL LIABILITIES
-                                     -----------------
-                                     EQUITY:
-                                       + Common Stock
-                                       + Preferred Stock
-                                       + Additional Paid-in Capital
-                                       + Retained Earnings
-                                       – Treasury Stock
-                                     -----------------
-                                     TOTAL EQUITY
--------------------------------------------------
-             TOTAL ASSETS  =  TOTAL LIABILITIES + EQUITY -->
 
 - **Week 3**: Advanced Financial Metrics
   - Debt-to-equity ratios
