@@ -33,3 +33,17 @@ node_modules/
 _site/
 .jekyll-cache/
 .sass-cache/
+
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+.DS_Store
+*_draft.md
+assets/js/dist/
+node_modules/
+.sass-cache/
+.jekyll-cache/
+_site/

@@ -25,15 +25,15 @@ I also corrected some incongruencies in the weekly plan, such the absence of wee
 - Risk vs. return concepts
 - **Assessment**: Quiz completed - identified review areas
 
-### **Week 2: Financial Statement Essentials (5 hours)**
+### **Week 2:✅ Financial Statement Essentials (5 hours)**
 
 **Learning Objectives**: Read and interpret the three core financial statements
 
 **Daily Schedule (45 min/day, Mon-Fri):**
-- **Monday (45 min)**: Income Statement basics - revenue, expenses, profit margins
-- **Tuesday (45 min)**: Balance Sheet fundamentals - assets, liabilities, equity
-- **Wednesday (45 min)**: Cash Flow Statement - operating, investing, financing activities
-- **Thursday (45 min)**: How statements connect and tell a company's story
+- [x] **Monday (45 min)**: Income Statement basics - revenue, expenses, profit margins
+- [x] **Tuesday (45 min)**: Balance Sheet fundamentals - assets, liabilities, equity
+- [x] **Wednesday (45 min)**: Cash Flow Statement - operating, investing, financing activities
+- [x] **Thursday (45 min)**: How statements connect and tell a company's story
 - **Friday (45 min)**: Practice reading real 10-K excerpts
 
 **Resources**: 

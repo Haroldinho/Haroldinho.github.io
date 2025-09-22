@@ -77,10 +77,16 @@ tags: [value_investing, swing_trading, trading]
     - Liabilities "What's owed." The liabilities consist of all the present obligations of a company and are separated between current (accounts payable, salaries and wage payable, deferred revenues, short-term debt...) and non-current (deferred revenue, long-term debt, long-term lease obligations). Those values are fixed and are paid first in teh event of a bankruptcy.
     - Equity "The owners' shares". It is whatever assets are left after the liabilities are paid. Those assets return to the owners. Unlike liabilities, the equity is highly variable depending on the changes in the value of the assets (depreciation, ). Common line items  are common stock, preferred stock, treasury stock and retained earnings. 
   - Cash flow statement importance
+    - What happens to a company's cash during an accounting period.
+    - Operating activities: The money coming in and out from standard operations (selling a good, paying an employee)
+    - Investing activities: The money that flows from buying or selling physical assets with cash. 
+    - Financing activities: The money that flows from equity or debt and their revenue/payments.
+    - Direct method: all cash collections minus all cash disbursements.
+    - Indirect method: Starts from the net income in the income statement and make adjustments for revenues and expenses (accruals) as well as non-cash expenses for the period (amortization and depreciation...). 
   - Key financial ratios and metrics
 
   ![Image]({{"/assets/images/ba3041fb-cf0d-4dd8-af52-69bc3c9ecbf1.png" | relative_url}})
-                 BALANCE SHEET
+                 <!-- BALANCE SHEET
 -------------------------------------------------
 ASSETS                               LIABILITIES + EQUITY
 -------------------------------------------------
@@ -106,7 +112,7 @@ TOTAL ASSETS                         TOTAL LIABILITIES
                                      -----------------
                                      TOTAL EQUITY
 -------------------------------------------------
-             TOTAL ASSETS  =  TOTAL LIABILITIES + EQUITY
+             TOTAL ASSETS  =  TOTAL LIABILITIES + EQUITY -->
 
 - **Week 3**: Advanced Financial Metrics
   - Debt-to-equity ratios
