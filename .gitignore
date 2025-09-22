@@ -34,16 +34,22 @@ _site/
 .jekyll-cache/
 .sass-cache/
 
-
+# LaTeX auxiliary files
 *.aux
 *.fdb_latexmk
 *.fls
 *.log
 *.synctex.gz
+
+
 .DS_Store
 *_draft.md
+
+
+# Compiled assets
 assets/js/dist/
+
+# Dependency folders
 node_modules/
-.sass-cache/
-.jekyll-cache/
-_site/
+vendor/bundle
+
