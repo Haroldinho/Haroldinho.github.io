@@ -10,11 +10,13 @@ tags: [value_investing, swing_trading, trading]
 ---
 
 
+**This is not financial advice, just my attempt to become more financially literate.**
 <!-- //# Swing Trading & Value Investing Simple Learning Plan -->
+
 ## Phase 1: Foundation (Weeks 1-4)
 
-
 ### Core Investment Principles
+
 - **Week 1**: Market basics and terminology
   - [x] Asset classes, investment vehicles, derivatives and strategies
     - [x] Asset Classes: What you own

@@ -194,6 +194,7 @@ defaults:
 
 sass:
   style: compressed
+  sass_dir: _sass
 
 compress_html:
   clippings: all
@@ -226,7 +227,7 @@ jekyll-archives:
 
 plugins:
   - jekyll-scholar
-
+  - jekyll-sass-converter
 
 scholar:
   bibliography: references.bib
