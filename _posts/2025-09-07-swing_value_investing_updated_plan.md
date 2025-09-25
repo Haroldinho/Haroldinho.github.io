@@ -11,8 +11,9 @@ tags: [value_investing, swing_trading, trading]
 
 # Restructured 5-Hour Weekly Learning Plan: Intelligent Trading & Value Investing
 
-This is a modified version of the previous learning plan with smaller study blocks 
-and with a focus on testing oneself to ensure good assimilation of the material.
+This is a modified version of the previous learning plan with smaller study blocks.
+It has a focus on self-testing to ensure good assimilation of the material. 
+I firmly believe that tests and projects are integral components of learning.
 
 
 **This is not financial advice, just my attempt to become more financially literate.**
@@ -37,7 +38,7 @@ and with a focus on testing oneself to ensure good assimilation of the material.
 - [x] **Tuesday (45 min)**: Balance Sheet fundamentals - assets, liabilities, equity
 - [x] **Wednesday (45 min)**: Cash Flow Statement - operating, investing, financing activities
 - [x] **Thursday (45 min)**: How statements connect and tell a company's story
-- **Friday (45 min)**: Practice reading real 10-K excerpts
+- [x] **Friday (45 min)**: Practice reading real 10-K excerpts
 
 **Resources**:
 
@@ -45,12 +46,13 @@ and with a focus on testing oneself to ensure good assimilation of the material.
 - SEC.gov sample 10-K filings
 - Morningstar's "How to Read Financial Statements"
 
-**Week 2 Quiz (30 min)**:
+**Week 2 Quiz (30 min)**: ✅
 
 - Identify key items on each statement
 - Calculate basic metrics from provided data
 - Spot red flags in financial statements
 - **Pass Criteria**: 75% to advance
+- Passed with 18/20 (90%) → Pass 🎉
 
 ---
 
