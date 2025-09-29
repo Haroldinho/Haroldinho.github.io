@@ -64,6 +64,12 @@ Some important facts from {% cite brunton_book_2019 %}:
 2. The Uncertainty Principles:  A signal can be completely resolved in time, but will then provide no information in the frequency domain and vice-versa. In other words, as one gains more information in one of the two domains: time or frequency, one loses information in the other. No signal can be fully known in both domains. The Fourier Transform will give you the spectral characteristic of a signal, but is incapable of telling you when in time the frequencies occur.
 3. A direct consequence, is that the Fourier Transform is only able to fully characterize truly periodic and stationary signals. In other words, we can approximate aperiodic signals, but cannot resolve them fully. If the signal is not stationary (changes with time), we can approximate locally or resort to hierarchical methods such as Gabor Decomposition or wavelets for higher resolution. Gabor transform operates on short frequencies allowing to handle transitions more elegantly than we simple Fourier transforms. Wavelet transforms use multi-scale orthogonal basis to extract information both in the time and frequency domain. Wavelets are more appropriate for image processing, compressiona and high dimensional processing.
 
+4. The Fourier transform of a convolution is the pointwise product of the individual Fourier transforms.
+
+$$
+\mathcal{F} (f \circ g) = \mathcal{F}(f) \mathcal{F}(g) \int_{-\infty}^{\infty} f(t) g(t-\lambda) dt
+$$
+
 ## Discrete Fourier Transforms and Fast Fourier Transforms
 
 Because the Fourier Transform is linear it can be represented by matrix operations on a finite set.
@@ -80,11 +86,39 @@ $$
 The Fast Fourier Transform leverages the high symmetricity of the Fourier matrix to transform the quadratic $O(n^2)$ matrix multiplication operation into a loglinear operation $O(n log n)$.
 This is this operation that we utilize to index the frequency signature of our videos.
 
-## Indexing Frequency Signatures with Fourier Transforms
+## Directly Identifying Clips
 
-## Results
+In a direct method, we are comparing audio signals directly.
+The temporal location of the clip within the longer audio segment is given by the timestamp that maximizes the cross-correlation between the two signals.
+
+$$
+\tau ^* = \argmax_{\tau}(f * g) (\tau) = \argmax_{\tau} \int_{-\infty}^{\infty} f(t) g(t+\tau) dt
+$$
+
+This relation is really close to the convolution operation, except that here 
+$\tau=-\lambda$.
+By using property 4 of a Fourier series above, it is possible to perform a cross-correlation of two signals in a way that is both fast and accurate.
+
+### Steps for FFT cross-correlation:
+The process to use FFT to estimate the starting timestamp of a clip within a larger video is relatively simple.  
+1. Extract the audio from both video segments. That can easily be done with libraries like moviepy.
+2. Normalize the audio signals.
+3. Use scipy.signal to efficiently perform the cross-correlation between two signals.
+4. Find $\tau$ the best offset between the two signals. This is the start time we are after.
+
+
+## Evaluation:
+We use public domain videos, extract short clips from these videos and note the exact timestamps those clips start within the video. 
+
+### Evaluation Metrics:
+We use 2, 5 and 10 seconds precision to evaluate our accuracy.
+
+### Results
 
 ## Conclusions and next steps
+When sound signals are unavailable, the audio-cross-correlation approach becomes useles.
+Instead one has to leverage the features of the image itself and its context.
+In future work, we plan also to test more advanced embeddings using transformers to match the reliability of FFT.
 
 ## References
 
