@@ -115,10 +115,20 @@ We use 2, 5 and 10 seconds precision to evaluate our accuracy.
 
 ### Results
 
+The first set was conducted on the BBC Planet Earth Videos {% cite bbc_planet_earth_pole_to_pole %} to provide an initial baseline against videos that can be found in the public domain.
+The dataset provide full-length documentaries for "free, personal, educational purposes".
+Extracting and testing several 15-20 seconds clip from the first episode "From Pole to Pole" resulted in perfect estimation of the start and end times.
+
+A second set of tests were performed on proprietary data. Although the results were not as good as for the BBC video dataset, all these tests resulted in almost perfect recall. TODO: Add the number of assets and charts for the results. 
+
 ## Conclusions and next steps
 When sound signals are unavailable, the audio-cross-correlation approach becomes useles.
 Instead one has to leverage the features of the image itself and its context.
-In future work, we plan also to test more advanced embeddings using transformers to match the reliability of FFT.
+I have tested piecewise hashing, wavelet transform, and I am currently exploring more advanced embeddings to match the reliability of FFT.
+That will be the subject of a new article once I get the hang of it. 
+
+## Code Base:
+Feel free to clone: https://github.com/Haroldinho/audio_timestamp_extraction
 
 ## References
 
