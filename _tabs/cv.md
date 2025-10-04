@@ -44,7 +44,7 @@ Aerospace Engineer and Data Scientist with a proven track record of applying sta
 **Georgia Institute of Technology: Air Transportation Lab**
 *Graduate Research Assistant, Atlanta, GA | Aug 2012 – Dec 2021*
 
-- Created a discrete event simulation of airport passenger traffic in C++ to study queue dynamics and detect transient changes using stochastic modeling.
+- Created a discrete event simulation of airport passenger traffic in Python+Simpy to study queue dynamics and detect transient changes using stochastic modeling.
 - Predicted wait times with less than 20% error over 15-minute intervals using simulation and flight/cellphone data from Sydney International Airport.
 - Streamlined Perl and C++ code for the MEANS software platform, enabling internal adoption.
 
