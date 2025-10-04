@@ -23,25 +23,69 @@ Aerospace Engineer and Data Scientist with a proven track record of applying sta
 
 
 ## Professional Experience
-**Warner Bros. Discovery** | Atlanta, GA, USA
-*Senior Data Scientist*
-*May 2020 - Present*
 
-* **Spearheaded the development of an ML tool to automatically update caption positions based on essential actions.**
-* **Established launch metrics for CaptionAI, working closely with product managers and stakeholders.**
-* **Implemented a reporting system using BigQuery and custom dashboards, tracking over $100k in cost savings within the first 3 months.**
-* Led development of an ML-based block positioning tool, improving F1 score from 48% to 70%.
-* Deployed VertexAI inference and prediction pipelines for the block positioning solution.
-* Collaborated with the ML team to bring the solution to production and established steps for continuous experimentation and improvements in the GCP ecosystem.
-* Mentored a summer intern, ideating and scoping their project, which resulted in investment into internal research for speaker diarization.
-* Maintained production ad-scheduling mixed integer linear programming codes in CPLEX, supporting millions of dollars in revenue.
-* Reduced forecasting error by 30% by updating a suite of audience forecasting tools to use XGBoost and more appropriate seasonalities.
-* Evaluated third-party data integrity, facilitating vendor selection within 3 months.
-* Developed Gaussian Mixture Models for short-term targeted forecasting.
-* Facilitated the Data Science Summit across AT&T and WarnerMedia.
+**Warner Bros. Discovery - Data Science – ML**
+*Senior Data Science Analyst, Atlanta, GA | May 2020 – Present*
 
+- Designed and productionized a caption positioning module using PaddleOCR, Python, and Kubeflow VertexAI pipelines, improving precision and recall from mid-40% to 90%, and reducing editing time by 10–15% per programming hour.
+- Developed an FFT and perceptual hashing-based solution to identify video clip locations within larger assets, achieving 95% temporal accuracy. Enabled rapid prototyping of trailer generation techniques regardless of source production style.
+- Evaluated and compared different versions of Google's Gemini VLMs to create an integrated AI workflow that extracts scenes and metadata in production-ready formats. Engineered few-shot prompts with role-based task decomposition and self-criticism strategies.
+- Built, containerized, and deployed a Streamlit web application using Docker and Cloud Run to collect user feedback on AI-generated video clips, enabling data-driven model evaluation.
+- Designed and implemented a Bayesian Dirichlet update framework to dynamically adjust confidence scores based on user feedback.
+- Conducted a proof of concept for metadata generation from video content using multi-step prompting and schema contextualization, improving the precision of automated content labeling.
+- Created a detailed cost analysis model for evaluating Visual Language Models (VLMs) based on token usage and inference costs, guiding resource allocation and budget decisions.
+- Developed a tool to estimate the best caption position using computer vision tools.
+- Mentored summer interns, providing project scoping, technical coaching, and support during final presentations; intern work led to organizational initiatives.
+- Created monitoring tools using R and Python in Domino Data Lab and Snowflake for audience forecasting models, identifying opportunities for tool enhancements in 2 of 6 markets.
+- Replaced traditional audience forecasting tools with ML-based solutions (XGBoost, Prophet, Regression Forests), reducing error by 5–30%.
+- Maintained and upgraded CPLEX-based mixed-integer programming code supporting millions in marketing campaign revenue.
+- Assessed data integrity of third-party vendors and communicated findings to both technical and business stakeholders to inform vendor selection decisions within three months.
 
+**Georgia Institute of Technology: Air Transportation Lab**
+*Graduate Research Assistant, Atlanta, GA | Aug 2012 – Dec 2021*
 
+- Created a discrete event simulation of airport passenger traffic in C++ to study queue dynamics and detect transient changes using stochastic modeling.
+- Predicted wait times with less than 20% error over 15-minute intervals using simulation and flight/cellphone data from Sydney International Airport.
+- Streamlined Perl and C++ code for the MEANS software platform, enabling internal adoption.
+
+**Airbus Aerial**
+
+- Developed a MILP optimization tool for multi-drone path planning under time and energy constraints.
+- Led a team of three graduate students, delivering a path-planning software solution in under three months.
+- Coordinated the development of aerial surveillance heuristics, improving completion time from a week to two days.
+
+**Société Internationale de Télécommunications Aéronautiques (SITA)**
+
+- Processed flight and MAC address data using Python/SQL to analyze longitudinal trends in airport passenger flows.
+- Developed and integrated a discrete-event foot traffic simulator into a model-predictive optimization tool.
+
+**Insight Data Science**
+*Data Engineer – Fellowship, Seattle, WA | Sep 2019 – Nov 2019*
+
+- Designed a Spark-based batch processing pipeline to analyze 250 GB of Twitter data and extract pricing trends.
+- Employed NLP to extract product and price mentions for real-time dashboards.
+- Built a PostgreSQL database and S3 backend to serve an interactive dashboard.
+
+**FlightSafety International**
+*Part-time Engineer I, Atlanta, GA | May 2015 – Jul 2016*
+
+- Developed a realistic collision-avoidance SATCE simulator by integrating real-world flight data.
+- Created a C++ mathematical program for fast and low-level system control.
+- Designed a turboprop engine simulation with an 80% cost-effective performance match.
+
+Leadership Experience
+
+**Toastmasters International (WBD Chapter)**
+*Sergeant at Arms (2024), Vice President of Education (2025)*
+
+- Increased average meeting attendance from 10 to 30+ participants by organizing distinguished speaker events.
+- Spearheaded a mentoring program that paired new speakers with experienced members, boosting participation and confidence.
+
+## Technical Expertise
+
+Programming Languages and Environments: C/C++, Python, Linux, LATEX, R  
+Prototyping & Data Tools: R, MATLAB, SQL (MySQL, MariaDB, PostGRES, Snowflake), Gurobi, Mathematica  
+Software and Platforms: GIT, CMake, Vim, SimPy, CPLEX, Matlab, GCP VertexAI, Kubeflow, PaddleOCR, Streamlit, Docker, Cloud Run
 ---
 
 ## Education
@@ -68,21 +112,24 @@ Aerospace Engineer and Data Scientist with a proven track record of applying sta
 
 | Category | Skills |
 | :--- | :--- |
-| **AI/ML** | Deep Learning (Pytorch), NLP (SpaCy), Computer Vision, Anomaly Detection, Predictive Modeling |
-| **Data Science** | Pandas, NumPy, Scikit-learn, Kubeflow, Visualization (Streamlit, Plotly) |
-| **Programming**| Python, SQL, C++, MATLAB, Bash |
-| **Cloud** | AWS, Azure, Google Cloud Platform |
-| **Soft Skills** | Team Leadership, Project Management, Communication, Problem Solving |
+| **AI/ML** | Deep Learning (PyTorch), NLP (SpaCy), Computer Vision (PaddleOCR), Anomaly Detection, Predictive Modeling, Bayesian Modeling |
+| **Data Science** | Pandas, NumPy, Scikit-learn, Kubeflow, VertexAI, Domino Data Lab, SimPy, Data Visualization (Streamlit, Plotly) |
+| **Optimization & Simulation** | Linear and Mixed-Integer Programming (CPLEX, Gurobi), Stochastic & Agent-based Simulation, MATLAB, Mathematica |
+| **Programming** | Python, SQL (Snowflake, PostgreSQL, MySQL, MariaDB), C++, R, Bash, LaTeX |
+| **Cloud & DevOps** | Docker, Cloud Run, Google Cloud Platform, AWS, Azure |
+| **Tools & Environments** | Git, CMake, Vim, Linux |
+| **Soft Skills** | Team Leadership, Project Management, Communication, Mentorship, Problem Solving |
+
+
+---
+
+## Publications
+
+Preprints: H. Nikoue, A. Marzuoli, J.P. Clarke, E. Feron, J. Peters. *Passenger Flow Predictions at Sydney International Airport: A Data-Driven Queuing Approach*. Aug. 20, 2015
 
 ---
 
 ## Certifications
 
 
----
-
-## Research Projects
-
-
-
-*Last updated: [Current Date]* 
+*Last updated: [/today]* 
