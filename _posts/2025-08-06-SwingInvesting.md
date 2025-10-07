@@ -90,10 +90,18 @@ tags: [value_investing, swing_trading, trading]
   ![Image]({{"/assets/images/ba3041fb-cf0d-4dd8-af52-69bc3c9ecbf1.png" | relative_url}})
 
 - **Week 3**: Advanced Financial Metrics
-  - Debt-to-equity ratios
-  - Return on equity (ROE)
+  - Return on Equity:
+    - Net Income divided by Shareholders Equity. It indicates how well the company uses shareholders investment to generate profit
+  - Debt-to-equity ratios:
+
+    -This is a solvency ratio indicating the proportion of liabilities to the toal market equity
+    - $$ \text{Debt/Equity} = \frac{\text{Total Liabilities}}{\text{Total Shareholder's Equity}} $$
+  - Return on equity (ROE): It's the next income of the company divided by the total market shares. It indicates how effective the company is at turning investor's contribution into profit. 
+  - Return on assets (ROA): It's the next income divided by the total value of assets.  How efficient are we in converting assets into profit.
   - Price-to-book (P/B) ratios
   - Profit margins and efficiency ratios
+    - Net Profit Margin 
+    - $$ \frac{\text{Net Profit}}{\text{Revenue}}
   - Cash flow metrics
   - How to use these ratios together for company analysis
 
