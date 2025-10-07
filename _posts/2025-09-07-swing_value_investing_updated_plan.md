@@ -63,6 +63,9 @@ I firmly believe that tests and projects are integral components of learning.
 **Daily Schedule:**
 
 - **Monday (60 min)**: Profitability ratios (ROE, ROA, profit margins, ROIC)
+  - Return on equity (ROE): It's the next income of the company divided by the total market shares. It indicates how effective the company is at turning investor's contribution into profit. 
+  - Return on assets (ROA): It's the next income divided by the total value of assets.  How efficient are we in converting assets into profit.
+  - Return on Invested Capital (ROIC): Net Operating profit after Taxes (NOPAT) to Total Capital Invested. How does the company uses its debt and equity to generate returns.
 - **Tuesday (60 min)**: Valuation ratios (P/E, P/B, PEG, Price-to-Sales)
 - **Wednesday (60 min)**: Leverage ratios (Debt-to-Equity, Interest Coverage)
 - **Thursday (60 min)**: Efficiency ratios (Asset Turnover, Inventory Turnover)
