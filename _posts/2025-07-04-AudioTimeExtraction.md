@@ -119,7 +119,16 @@ The first set was conducted on the BBC Planet Earth Videos {% cite bbc_planet_ea
 The dataset provide full-length documentaries for "free, personal, educational purposes".
 Extracting and testing several 15-20 seconds clip from the first episode "From Pole to Pole" resulted in perfect estimation of the start and end times.
 
-A second set of tests were performed on proprietary data. Although the results were not as good as for the BBC video dataset, all these tests resulted in almost perfect recall. TODO: Add the number of assets and charts for the results. 
+A second set of tests were performed on proprietary data. Although the results were not as good as for the BBC video dataset, all these tests resulted in almost perfect recall.
+
+The following figures show the distribution of results from the proprietary dataset. Figure 1 shows the distribution of cross-correlation run times, which exhibits a bimodal distribution with most operations completing in under 30 seconds. Figure 2 shows the distribution of audio correlation overlap values, demonstrating that the vast majority of matches have overlap values very close to 1.0, indicating high accuracy.
+
+![Distribution of audio cross-correlation run times](figures/audio_ccorr_run_time_sec.png)
+*Figure 1: Distribution of audio cross-correlation run times (in seconds) showing a bimodal distribution with peaks around 5-10 seconds and 20-25 seconds.*
+
+![Distribution of audio correlation overlap](figures/audio_corr_overlap.png)
+*Figure 2: Distribution of audio correlation overlap values, showing that most matches have overlap values very close to 1.0, indicating high accuracy.* 
+
 
 ## Conclusions and next steps
 When sound signals are unavailable, the audio-cross-correlation approach becomes useles.
