@@ -26,7 +26,8 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
-  gem "jekyll-feed"
+  # jekyll-feed is disabled - using custom feed.xml in assets/ instead
+  # gem "jekyll-feed"
   gem 'jekyll-scholar'
 end
 

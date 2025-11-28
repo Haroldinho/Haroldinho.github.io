@@ -123,10 +123,10 @@ A second set of tests were performed on proprietary data. Although the results w
 
 The following figures show the distribution of results from the proprietary dataset. Figure 1 shows the distribution of cross-correlation run times, which exhibits a bimodal distribution with most operations completing in under 30 seconds. Figure 2 shows the distribution of audio correlation overlap values, demonstrating that the vast majority of matches have overlap values very close to 1.0, indicating high accuracy.
 
-![Distribution of audio cross-correlation run times](figures/audio_ccorr_run_time_sec.png)
+![Distribution of audio cross-correlation run times]({{"/assets/img/audio_ccorr_run_time_sec.png" | relative_url}})
 *Figure 1: Distribution of audio cross-correlation run times (in seconds) showing a bimodal distribution with peaks around 5-10 seconds and 20-25 seconds.*
 
-![Distribution of audio correlation overlap](figures/audio_corr_overlap.png)
+![Distribution of audio correlation overlap]({{"/assets/img/audio_corr_overlap.png" | relative_url}})
 *Figure 2: Distribution of audio correlation overlap values, showing that most matches have overlap values very close to 1.0, indicating high accuracy.* 
 
 
