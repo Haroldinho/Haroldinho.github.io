@@ -8,23 +8,24 @@ tags: [llm, gemini, ]
 
 ## Motivation
 
-After taking [Kaggle 5 days of AI](https://www.kaggle.com/learn-guide/5-day-agents), I became quite determined to create my own agentic solution.
+After taking [Kaggle 5 days of AI](https://www.kaggle.com/learn-guide/5-day-agents), I became quite determined to create my own agentic solutions.
 This is the first of these projects.
-The project is an effort to create an agentic workflow that demonstrates the use of persistent memory and an adaptation to the user.
+The project is an effort to create an agentic workflow that demonstrates the use of persistent memory and being able to adapt the recomendations to the user's actions.
 
-The motivation was clear.
-As a self-proclaimed continuous learner, one of the hardest challenge is to evaluate oneself often and early to achieve continuous progress. The motivation for the AI learning Coach was to create a learning coach for myself to be more effective in my self-imposed studies.
+As a self-proclaimed continuous learner, one of the toughest challenge is to test myself often and early to achieve continuous progress. 
+The motivation for the AI learning Coach was to create a learning coach to help me be more effective in my self-imposed studies ... and maybe it could help others too.
 
 ## Objectives
 
-The purpose of the project is to create a group of agents that work together to support the learner every step of the way from deciding what to learn, to creating a learning plan, to assessing the user and providing  him flashcards to get up to speed.
+The main objective is to create a group of agents that work together to support the learner every step of the way from deciding what to learn, to creating a learning plan, to assessing the user and providing flashcards for offline active recall.
+This mixed of online and off-line learning is often used by other continuous learners such as medical students.
 
 A secondary objective was to start using Google Antigravity.
-Most of the code was built in the Antigravity IDE with Gemini 3.0. after using a few prompts described below.
+Most of the code was built in the Antigravity IDE with Gemini 3.0. Pro as the main LLM.
 
 ## Description
 
-The project is an automated, full-cycle learning assistant. It starts by taking a topic you want to learn, creating a custom curriculum (SMART goal), generating study materials (Anki flashcards), and continuously testing your knowledge to ensure you are ready to advance to the next level.
+The project is an automated, full-cycle learning assistant. It starts by taking a topic you want to learn, creating a custom curriculum with SMART goals, generating study materials (Anki flashcards), and continuously testing your knowledge to ensure you are ready to advance to the next level.
 
 ## 🤖 The Agents
 
@@ -66,14 +67,19 @@ b. the prompts for the agents
 
 ## AI Architecture and Workflow
 
-The system is designed as a sequential multi-agent pipeline:
+The system is designed as a multi-agent pipeline
+with a clear evaluator and optimizer:
 
 1.  **Initialization**: `GoldAgent` analyzes the user's request and builds a `LearningGoal` with milestones.
 2.  **Assessment Loop**:
     *   **Diagnostic**: `DiagnosticAgent` creates a baseline quiz to tailor the experience.
-    *   **Study Phase**: `OptimizerAgent` generates an Anki deck (`.apkg`) for the current milestone, tailored to the user's current level.
-    *   **Examination**: After a study period (simulated or real-time), `ExaminerAgent` generates a test based on the milestone content and previous knowledge (Active Recall).
-    *   **Progression**: If the score is > 70%, the user advances to the next milestone. Otherwise, remediation material is generated to address weak points.
+    *   **Study Phase**: `OptimizerAgent` generates an Anki deck (`.apkg`) for the current milestone, tailored to the user's current level. (optimizer)
+    *   **Examination**: After a study period (simulated or real-time), `ExaminerAgent` generates a test based on the milestone content and previous knowledge (Active Recall). (evaluator)
+    *   **Progression**: If the score is > 80%, the user advances to the next milestone. Otherwise, remediation material is generated to address weak points. 
+
+![Architecture of the AI agents]({{"/assets/img/architecture_diagram.png" | relative_url}})
+*Figure 1: AI Learning Coach Architecture *
+
 
 ## 💾 Memory
 The project uses a file-based JSON caching system located in `.coin_cache/`.
