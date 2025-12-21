@@ -116,3 +116,7 @@ The last level, level 6: Evaluating opinions and data in light of the knowledge 
 ## Github project:
 
 Check out the code in [github](https://github.com/Haroldinho/ai_learning_coach/tree/master)
+
+## References
+
+{% bibliography --cited %}
