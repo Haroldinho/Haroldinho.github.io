@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Learning Coach
-date: 2025-12-20 20:55:11 -0500
+date: 2025-12-19 20:55:11 -0500
 categories: [LLM, Agentic AI]
 tags: [llm, gemini, ]
 ---
