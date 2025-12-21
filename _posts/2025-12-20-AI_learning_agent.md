@@ -111,3 +111,8 @@ It is the intent of the author to augment the agents so they can prompt the user
 With respect to Bloom's Taxonomy of knowledge, the current tool addresses level 1: acquiring knowledge, level 2: gaining understanding and level 3: apply knowledge to solve problems.
 It should be possible to extend the tool for level 4: analyzing an idea to make inferences and level 5: synthetizing knowledge and understanding to create new ideas. That would transform the tool from a learning tool to an education tool and achieve the true end goal of generating deep knowledge.
 The last level, level 6: Evaluating opinions and data in light of the knowledge gained, may be hard to evaluate with current agents technology.
+
+
+## Github project:
+
+Check out the code in [github](https://github.com/Haroldinho/ai_learning_coach/tree/master)
