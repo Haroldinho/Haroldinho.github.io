@@ -111,8 +111,11 @@ There are a few next steps after this project:
 ## A note on Learning
 
 This section is a meta-reflection on learning based on {% cite brown_make_2014 %}.
-The agentic system adresses some of the lowest to mid level of learning such as retrieval practice and paced practice.
+
+
+The agentic system adresses some of the lowest levels of learning such as retrieval practice and paced practice.
 It is the intent of the author to augment the agents so they can prompt the user to go a bit deeper by being able to reflect on their learning and their responses, as well as by encouraging the user of the project to go out and apply their knowledge to new fields, make parallels and extensions to what they already know.
+
 
 With respect to Bloom's Taxonomy of knowledge, the current tool addresses level 1: acquiring knowledge, level 2: gaining understanding and level 3: apply knowledge to solve problems.
 It should be possible to extend the tool for level 4: analyzing an idea to make inferences and level 5: synthetizing knowledge and understanding to create new ideas. That would transform the tool from a learning tool to an education tool and achieve the true end goal of generating deep knowledge.
