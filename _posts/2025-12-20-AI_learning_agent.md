@@ -9,6 +9,8 @@ tags: [llm, gemini, ]
 ## Motivation
 
 After taking [Kaggle 5 days of AI](https://www.kaggle.com/learn-guide/5-day-agents), I became quite determined to create my own agentic solutions.
+Agentic AI empowers everyone to reach new level of automation and customization that were difficult to reach for single programmers in the past.
+It is a goal of mine to leverage this new paradigms to build products that would serve me and the people I serve.
 This is the first of these projects.
 The project is an effort to create an agentic workflow that demonstrates the use of persistent memory and being able to adapt the recomendations to the user's actions.
 
