@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building a Distributed AI Learning Coach with Antigravity"
-date: 2026-01-10 20:30:00 -0500
+date: 2026-01-10 12:00:00 -0500
 categories: [LLM, Agentic AI, iOS, Python]
 tags: [llm, gemini, antigravity, ios, fastAPI]
 ---
