@@ -25,24 +25,24 @@ Let's look at how the application works by following a user's journey to learn a
 ### 1. Starting a Project
 The journey begins on the **Home View**. Here, the user can manage their portfolio of learning topics. The app persists state locally and syncs with the server, so progress is never lost.
 
-![Home View]({{ "/assets/ai_learning_agents_images/home_view.png" | relative_url }})
+<img src="{{ "/assets/ai_learning_agents_images/home_view.png" | relative_url }}" alt="Home View" width="25%" />
 *Figure 1: The Home View showing active learning projects.*
 
 ### 2. Diagnosis and Planning
 Before generating a curriculum, the **DiagnosticAgent** intervenes. It interviews the user with a 10-question quiz to establish a baseline. This ensures the **GoalAgent** doesn't create a plan that is boringly easy or discouragingly hard.
 
-![Diagnostic View]({{ "/assets/ai_learning_agents_images/diagnostic_view.png" | relative_url }})
+<img src="{{ "/assets/ai_learning_agents_images/diagnostic_view.png" | relative_url }}" alt="Diagnostic View" width="25%" />
 *Figure 2: The Diagnostic View assessing baseline knowledge.*
 
 Once assessed, the agent builds a custom **Learning Plan** broken down into 30-day milestones. The **Milestone View** gives the user a clear roadmap of what to focus on next.
 
-![Milestone View]({{ "/assets/ai_learning_agents_images/milestone_view.png" | relative_url }})
+<img src="{{ "/assets/ai_learning_agents_images/milestone_view.png" | relative_url }}" alt="Milestone View" width="25%" />
 *Figure 3: Tracking progress through specific learning milestones.*
 
 ### 3. Deep Study
 For each milestone, the **OptimizerAgent** acts as a content creator. It generates high-quality flashcards tailored to the specific concepts of that stage. The iOS app implements a native **Spaced Repetition System (SM-2)**, allowing the user to study efficiently, flipping cards to test their **Active Recall**.
 
-![Flashcard Back]({{ "/assets/ai_learning_agents_images/flashcard_back.png" | relative_url }})
+<img src="{{ "/assets/ai_learning_agents_images/flashcard_back.png" | relative_url }}" alt="Flashcard Back" width="25%" />
 *Figure 4: Studying flashcards with the native interface.*
 
 ### 4. Assessment and Progression
