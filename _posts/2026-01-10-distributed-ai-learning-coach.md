@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Building a Distributed AI Learning Coach with Antigravity"
+title: "Building a Distributed AI Learning Coach iOS App with Antigravity"
 date: 2026-01-10 12:00:00 -0500
 categories: [LLM, Agentic AI, iOS, Python]
 tags: [llm, gemini, antigravity, ios, fastAPI]
 ---
+*This is a follow-up article to AI Learning Coach where we transform the stand-alone product into a full-fledged app.*
 
 ## Motivation
 
@@ -19,29 +20,30 @@ The project has evolved from a local Python CLI utility into a robust **distribu
 The backend acts as the logic core, wrapping a sophisticated agentic workflow in a **FastAPI** service running on Docker. The frontend is a native **iOS application built with SwiftUI**, designed to feel like a premium educational product.
 
 ## Walk-through: A User's Journey
+<img src="{{ "/assets/ai_learning_agents_images/icarus_chatgpt_2026_1_13_v2.png" | relative_url }}" alt="App Logo" width="25%" />
 
-Let's look at how the application works by following a user's journey to learn a new topic, like "Quantum Physics".
+Let's look at how the application works by following a user's journey to learn a new topic, like "Program Management".
 
 ### 1. Starting a Project
 The journey begins on the **Home View**. Here, the user can manage their portfolio of learning topics. The app persists state locally and syncs with the server, so progress is never lost.
 
-<img src="{{ "/assets/ai_learning_agents_images/home_view.png" | relative_url }}" alt="Home View" width="25%" />
+<img src="{{ "/assets/ai_learning_agents_images/home_view_mac.png" | relative_url }}" alt="Home View" width="25%" />
 *Figure 1: The Home View showing active learning projects.*
 
 ### 2. Diagnosis and Planning
 Before generating a curriculum, the **DiagnosticAgent** intervenes. It interviews the user with a 10-question quiz to establish a baseline. This ensures the **GoalAgent** doesn't create a plan that is boringly easy or discouragingly hard.
 
-<img src="{{ "/assets/ai_learning_agents_images/diagnostic_view.png" | relative_url }}" alt="Diagnostic View" width="25%" />
+<img src="{{ "/assets/ai_learning_agents_images/diagnostic_view_mac.png" | relative_url }}" alt="Diagnostic View" width="25%" />
 *Figure 2: The Diagnostic View assessing baseline knowledge.*
 
 Once assessed, the agent builds a custom **Learning Plan** broken down into 30-day milestones. The **Milestone View** gives the user a clear roadmap of what to focus on next.
 
-<img src="{{ "/assets/ai_learning_agents_images/milestone_view.png" | relative_url }}" alt="Milestone View" width="25%" />
+<img src="{{ "/assets/ai_learning_agents_images/milestone_view_mac.png" | relative_url }}" alt="Milestone View" width="25%" />
 *Figure 3: Tracking progress through specific learning milestones.*
 
 ### 3. Deep Study
 For each milestone, the **OptimizerAgent** acts as a content creator. It generates high-quality flashcards tailored to the specific concepts of that stage. The iOS app implements a native **Spaced Repetition System (SM-2)**, allowing the user to study efficiently, flipping cards to test their **Active Recall**.
-
+<img src="{{ "/assets/ai_learning_agents_images/flashcard_front.png" | relative_url }}" alt="Flashcard Front" width="25%" />
 <img src="{{ "/assets/ai_learning_agents_images/flashcard_back.png" | relative_url }}" alt="Flashcard Back" width="25%" />
 *Figure 4: Studying flashcards with the native interface.*
 
